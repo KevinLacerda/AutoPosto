@@ -1,4 +1,4 @@
-# Sistema de Gestão de Posto de Combustíveis (AutoPosto Ipiranga)
+# Sistema de Gestão de Posto de Combustíveis (AutoPosto)
 # Equipe:
 
 * **Autores:** KEVIN DE OLIVEIRA LACERDA e EMANUEL ALEXANDRINO CARTACHO 
