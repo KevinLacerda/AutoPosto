@@ -1,0 +1,3 @@
+enum StatusBomba {
+    DISPONIVEL, OCUPADO
+}

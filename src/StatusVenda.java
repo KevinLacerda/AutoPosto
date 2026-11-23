@@ -1,0 +1,3 @@
+enum StatusVenda {
+    ABERTA, CONCLUIDA
+}
